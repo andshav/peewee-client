@@ -1,0 +1,3 @@
+.swiperNavBtn {
+    @apply w-10 h-10 fill-primary z-10 cursor-pointer;
+}

@@ -1,0 +1,1 @@
+export { SweatshirtsPage } from './ui';
